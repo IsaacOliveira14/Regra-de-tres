@@ -43,22 +43,7 @@ input{
     line-height: 50pt;
     font-size: 17pt;
 }
-.values{
-    font-size: 23px;
-}
-#n1{
-    height: 30px;
-    width: 80px;
-}
-#n2{
-    height: 30px;
-    width: 80px;
-}
-#n3{
-    height: 30px;
-    width: 80px;
-}
-#n4{
+.box-input{
     height: 30px;
     width: 80px;
 }
