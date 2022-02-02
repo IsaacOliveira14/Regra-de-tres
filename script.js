@@ -4,7 +4,7 @@ function calcular() {
     var n3 = document.getElementById('n3')
     var n4 = document.getElementById('n4')
     var res = document.getElementById('res')
-    res.innerHTML=`Resultado: `
+    res.innerHTML=`X: `
     if (n1.value.length == 0) {
 
       alert('Digite os dados do 1° valor')
